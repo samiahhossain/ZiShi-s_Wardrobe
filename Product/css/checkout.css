@@ -1,0 +1,80 @@
+/* CSS Document */
+h1,h3,p,label {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+
+#logo {
+    padding-top: 20px;
+    height: 300px;
+    background-color: black;
+}
+
+#logo img {
+    align-content: center;
+    display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 8px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #000000;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: white;
+    color: black;
+    padding: 7px;
+    border-color: #000000;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    cursor: pointer;
+}
+
+label {
+    font-size: 17px;
+}
+
+input[type=submit]:hover {
+    background-color: black;
+    color: white;
+}
+
+form {
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+h1,h3,p {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px
+}
+
+h3 {
+    font-size: 25px;
+}
+
+#details,#shipping {
+    height: 430px
+}
+
+p {
+    text-align: center;  
+}
+
+#top {
+    height: 150px;
+}
+
