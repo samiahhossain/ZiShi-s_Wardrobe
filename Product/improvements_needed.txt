@@ -1,0 +1,3 @@
+remove need for <br>
+major redesign with grid on home page
+better placement of nav
